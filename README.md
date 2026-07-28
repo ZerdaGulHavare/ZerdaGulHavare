@@ -44,7 +44,6 @@ I enjoy sitting at the intersection of hardware and software, where chip-level d
 
 <p align="center">
 <a href="https://en.wikipedia.org/wiki/Verilog"><img src="https://img.shields.io/badge/Verilog-black?style=for-the-badge" alt="Verilog" /></a>
-<a href="https://en.wikipedia.org/wiki/VHDL"><img src="https://img.shields.io/badge/VHDL-black?style=for-the-badge" alt="VHDL" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" title="C"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/></a>
 <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" title="React / React Native"/></a>
@@ -53,7 +52,6 @@ I enjoy sitting at the intersection of hardware and software, where chip-level d
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" title="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" title="CSS3"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/></a>
 </p>
 
 ---
@@ -62,7 +60,6 @@ I enjoy sitting at the intersection of hardware and software, where chip-level d
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ZerdaGulHavare&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Zerda's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=ZerdaGulHavare&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
