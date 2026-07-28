@@ -3,7 +3,7 @@
 <div align="center" style="background-color:#0d1117; color:#f0f0f0; padding: 30px; border-radius: 15px;">
 
 <h1 align="center">Hi, I'm Zerda Gul Havare</h1>
-<h3 align="center">Chip Designer | AI Accelerator Developer | Full-Stack & Frontend Engineer</h3>
+<h3 align="center">Chip Designer | AI Accelerator Developer | Full-Stack Mobile & Web Frontend Engineer</h3>
 
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8a2be2&height=200&section=header&text=ZerdaGulHavare&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Hardware%20%7C%20AI%20%7C%20Mobile%20%7C%20Web&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
