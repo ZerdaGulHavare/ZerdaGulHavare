@@ -30,6 +30,9 @@ I enjoy sitting at the intersection of hardware and software, where chip-level d
 
 ---
 
+## 🏆 Achievements
+- 🥈 **TEKNOFEST 2026 Chip Design Competition – Microcontrollers Category:** International 2nd Place & 1st Place in Türkiye, with the MEÜ Çip Lab team (October 2026)
+
 ### Connect with Me
 
 <p align="center">
